@@ -144,13 +144,21 @@ Screenshots of outputs are included in the **ASSIGNMENT 1** folder.
 IN226007102_FASTAPI
 └── ASSIGNMENT 1
     ├── main.py
+
     ├── Q1_Output.png
+
     ├── Q2_Output.png
+
     ├── Q3_Output.png
+
     ├── Q4_Output.png
+
     ├── Q5_Output_BOOK.png
+
     ├── Q5_Output_mouse.png
+
     ├── Bonus_Output.png
+
     └── Docs_Output.png
 
 ---

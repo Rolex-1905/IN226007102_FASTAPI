@@ -142,7 +142,9 @@ Screenshots of outputs are included in the **ASSIGNMENT 1** folder.
 ## Repository Structure
 
 IN226007102_FASTAPI
+
 └── ASSIGNMENT 1
+
     ├── main.py
 
     ├── Q1_Output.png

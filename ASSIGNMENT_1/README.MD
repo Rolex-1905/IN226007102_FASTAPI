@@ -3,8 +3,11 @@
 ## Intern Details
 
 **Name:** Neeraj
+
 **Intern ID:** IN226007102
+
 **Module:** FastAPI – Assignment 1
+
 **Organization:** Innomatics Research Labs
 
 ---
